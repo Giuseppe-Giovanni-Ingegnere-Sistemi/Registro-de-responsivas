@@ -817,6 +817,7 @@ if (!isset($_SESSION['usuario'])) {
                                 <option value="Software">Software</option>
                                 <option value="Disco Duro">Disco Duro</option>
                                 <option value="Switch">Switch</option>
+                                <option value="Correo">Correo</option>
                             </select>
                         </div>
                         <div class="form-group">
